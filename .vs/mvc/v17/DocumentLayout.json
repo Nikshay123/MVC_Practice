@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\satis\\source\\repos\\mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60989FF5-6C7C-4D2B-A15F-2A8BFBC99283}|mvc\\mvc.csproj|c:\\users\\satis\\source\\repos\\mvc\\mvc\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60989FF5-6C7C-4D2B-A15F-2A8BFBC99283}|mvc\\mvc.csproj|solutionrelative:mvc\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60989FF5-6C7C-4D2B-A15F-2A8BFBC99283}|mvc\\mvc.csproj|c:\\users\\satis\\source\\repos\\mvc\\mvc\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60989FF5-6C7C-4D2B-A15F-2A8BFBC99283}|mvc\\mvc.csproj|solutionrelative:mvc\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60989FF5-6C7C-4D2B-A15F-2A8BFBC99283}|mvc\\mvc.csproj|c:\\users\\satis\\source\\repos\\mvc\\mvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60989FF5-6C7C-4D2B-A15F-2A8BFBC99283}|mvc\\mvc.csproj|solutionrelative:mvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60989FF5-6C7C-4D2B-A15F-2A8BFBC99283}|mvc\\mvc.csproj|c:\\users\\satis\\source\\repos\\mvc\\mvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60989FF5-6C7C-4D2B-A15F-2A8BFBC99283}|mvc\\mvc.csproj|solutionrelative:mvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60989FF5-6C7C-4D2B-A15F-2A8BFBC99283}|mvc\\mvc.csproj|c:\\users\\satis\\source\\repos\\mvc\\mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60989FF5-6C7C-4D2B-A15F-2A8BFBC99283}|mvc\\mvc.csproj|solutionrelative:mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60989FF5-6C7C-4D2B-A15F-2A8BFBC99283}|mvc\\mvc.csproj|c:\\users\\satis\\source\\repos\\mvc\\mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60989FF5-6C7C-4D2B-A15F-2A8BFBC99283}|mvc\\mvc.csproj|solutionrelative:mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\satis\\source\\repos\\mvc\\mvc\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "mvc\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\satis\\source\\repos\\mvc\\mvc\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "mvc\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T11:37:28.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\satis\\source\\repos\\mvc\\mvc\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "mvc\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\satis\\source\\repos\\mvc\\mvc\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "mvc\\App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T11:37:25.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\satis\\source\\repos\\mvc\\mvc\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "mvc\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\satis\\source\\repos\\mvc\\mvc\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "mvc\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T11:36:55.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\satis\\source\\repos\\mvc\\mvc\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "mvc\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\satis\\source\\repos\\mvc\\mvc\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "mvc\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T11:36:52.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\satis\\source\\repos\\mvc\\mvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\satis\\source\\repos\\mvc\\mvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "mvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T11:36:48.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\satis\\source\\repos\\mvc\\mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\satis\\source\\repos\\mvc\\mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T11:35:49.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
