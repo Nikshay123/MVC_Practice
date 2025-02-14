@@ -2,6 +2,8 @@ pipeline {
     agent any
 
     environment {
+        PATH = "$PATH:/usr/local/dotnet"
+        DOTNET_ROOT = "/usr/local/dotnet"
         DOCKER_IMAGE = 'nikshay7891/mvc-app'
         DOCKER_TAG = 'latest'
     }
